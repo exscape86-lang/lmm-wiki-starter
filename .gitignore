@@ -1,0 +1,23 @@
+# Local Obsidian state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# Secrets and local automation
+.env
+.env.*
+*.key
+*.pem
+*.token
+.smart-env/
+raw/
+logs/
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
