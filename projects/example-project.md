@@ -1,11 +1,12 @@
 ---
 title: Example Project
+# category enum: concept | source | channel | tag | reference | architecture | decision | pattern | debugging | environment | session-log | convention
 category: project
 confidence: medium
 updated: 2026-05-25
 tags: [project]
 author: me
-schemaVersion: 1
+schemaVersion: 2
 ---
 
 # Example Project

@@ -1,14 +1,17 @@
 ---
 title: Example Obsidian Graph Video
+# category enum: concept | source | channel | tag | reference | architecture | decision | pattern | debugging | environment | session-log | convention
 category: source
 confidence: medium
 updated: 2026-05-25
 tags: [source, obsidian, graph]
 author: lmm-wiki-starter
-schemaVersion: 1
+schemaVersion: 2
 source_type: youtube
 source_url: "https://example.com"
-linked_concepts: [[wiki/concepts/semantic-linking]], [[wiki/concepts/source-to-concept-pipeline]]
+linked_concepts:
+  - "[[wiki/concepts/semantic-linking]]"
+  - "[[wiki/concepts/source-to-concept-pipeline]]"
 ---
 
 # Example Obsidian Graph Video

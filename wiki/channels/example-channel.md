@@ -1,11 +1,12 @@
 ---
 title: Example Channel
+# category enum: concept | source | channel | tag | reference | architecture | decision | pattern | debugging | environment | session-log | convention
 category: channel
 confidence: medium
 updated: 2026-05-25
 tags: [channel]
 author: lmm-wiki-starter
-schemaVersion: 1
+schemaVersion: 2
 ---
 
 # Example Channel

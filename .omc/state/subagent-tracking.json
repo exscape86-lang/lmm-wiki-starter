@@ -1,0 +1,26 @@
+{
+  "agents": [
+    {
+      "agent_id": "a4f9981af6de29eab",
+      "agent_type": "workflow-subagent",
+      "started_at": "2026-05-31T10:03:42.542Z",
+      "parent_mode": "none",
+      "status": "completed",
+      "completed_at": "2026-05-31T10:10:30.072Z",
+      "duration_ms": 407530
+    },
+    {
+      "agent_id": "a031d55a47d3eb0c5",
+      "agent_type": "oh-my-claudecode:executor",
+      "started_at": "2026-05-31T10:11:24.823Z",
+      "parent_mode": "none",
+      "status": "completed",
+      "completed_at": "2026-05-31T10:12:49.447Z",
+      "duration_ms": 84624
+    }
+  ],
+  "total_spawned": 2,
+  "total_completed": 2,
+  "total_failed": 0,
+  "last_updated": "2026-05-31T10:16:49.464Z"
+}

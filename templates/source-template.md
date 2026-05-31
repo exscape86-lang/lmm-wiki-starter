@@ -1,11 +1,12 @@
 ---
 title: Source Title
+# category enum: concept | source | channel | tag | reference | architecture | decision | pattern | debugging | environment | session-log | convention
 category: source
 confidence: medium
 updated: 2026-05-25
 tags: [source]
 author: me
-schemaVersion: 1
+schemaVersion: 2
 source_type: youtube|article|github|book|podcast|note
 source_url: ""
 linked_concepts: []

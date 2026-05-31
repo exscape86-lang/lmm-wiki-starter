@@ -1,11 +1,13 @@
 ---
 title: Today
+# category enum: concept | source | channel | tag | reference | architecture | decision | pattern | debugging | environment | session-log | convention
+# (daily 노트는 운영용이라 enum 밖이지만, 다른 노트 만들 땐 위 값 중 하나를 씁니다)
 category: daily
 confidence: medium
 updated: 2026-05-25
 tags: [daily]
 author: me
-schemaVersion: 1
+schemaVersion: 2
 ---
 
 # Today

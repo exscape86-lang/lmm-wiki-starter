@@ -1,11 +1,12 @@
 ---
 title: Source to Concept Pipeline
+# category enum: concept | source | channel | tag | reference | architecture | decision | pattern | debugging | environment | session-log | convention
 category: concept
 confidence: medium
 updated: 2026-05-25
 tags: [concept, workflow]
 author: lmm-wiki-starter
-schemaVersion: 1
+schemaVersion: 2
 source_type: concept
 synthesized_from: [[wiki/sources/example-obsidian-graph-video]]
 contradictions: []
